@@ -1,4 +1,3 @@
-<img src="https://pbs.twimg.com/profile_banners/809035265721384961/1607881104/1500x500" width="100%">
 # 👨🏻‍💻 Ismael Muñoz&mdash;@ismhdez
 
 ¡Hola! Soy Ismael Muñoz, estudiante de Sistemas Microinformáticos y Redes y apasionado por la ciberseguridad.
