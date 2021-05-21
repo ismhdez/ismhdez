@@ -4,8 +4,11 @@
 
 ## 🛠 Proyectos
 Actualmente me puedes encontrar trabajando junto a **DigitalSynware** ([MineBox Network](https://minebox.es?ref=discord_ismhdez))  
-<img align="left" src="https://i.imgur.com/L2H5IqX.png" width="26px">
-<img align="left" src="https://i.imgur.com/NaJRAXi.png" width="26px">
+<center>
+  <img align="left" title="ismhdez" src="https://pbs.twimg.com/profile_images/1338109316990164993/91WEJ6po_400x400.jpg" width="26px">
+  <img align="left" title="DigitalSynware" src="https://i.imgur.com/L2H5IqX.png" width="26px">
+  <img align="left" title="MineBox Network" src="https://i.imgur.com/NaJRAXi.png" width="26px">
+</center>
 <br />
 <br />
 
