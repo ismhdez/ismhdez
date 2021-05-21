@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Ismael Muñoz&mdash;@ismhdez
 
-¡Hola! Soy Ismael Muñoz, estudiante de Sistemas Microinformáticos y Redes y apasionado por la ciberseguridad.
+¡Hola! Soy Ismael Muñoz, estudiante de **Sistemas Microinformáticos & Redes** y apasionado por el mundo de la ciberseguridad.
 
 ## 🛠 Proyectos
 Actualmente me puedes encontrar trabajando junto a **DigitalSynware** ([MineBox Network](https://minebox.es?ref=github_ismhdez))  
