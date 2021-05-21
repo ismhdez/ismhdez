@@ -3,7 +3,7 @@
 ¡Hola! Soy Ismael Muñoz, estudiante de Sistemas Microinformáticos y Redes y apasionado por la ciberseguridad.
 
 ## 🛠 Proyectos
-Actualmente me puedes encontrar trabajando junto a **DigitalSynware** ([MineBox Network](https://minebox.es?ref=discord_ismhdez))  
+Actualmente me puedes encontrar trabajando junto a **DigitalSynware** ([MineBox Network](https://minebox.es?ref=github_ismhdez))  
 <center>
   <img align="left" title="ismhdez" src="https://pbs.twimg.com/profile_images/1338109316990164993/91WEJ6po_400x400.jpg" width="26px">
   <img align="left" title="DigitalSynware" src="https://i.imgur.com/L2H5IqX.png" width="26px">
