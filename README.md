@@ -24,7 +24,7 @@ Actualmente me puedes encontrar trabajando junto a **DigitalSynware** ([MineBox 
 <img align="left" alt="Redis" width="29px" src="https://i.imgur.com/zLAtGKV.png" >
 <img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" >
 <img align="left" alt="IntelliJ Idea" width="26px" src="https://i.imgur.com/Agb22jo.png" >
-<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" >
+<img align="left" alt="GitHub" width="26px" src="https://github.com/fluidicon.png" >
 <br />
 <br />
 
@@ -33,7 +33,7 @@ Actualmente me puedes encontrar trabajando junto a **DigitalSynware** ([MineBox 
 <a href="https://twitter.com/ismhdez23"><img align="left" alt="Twitter" width="28px" height="26px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" ></a>
 <a href="https://instagram.com/ismhdez"><img align="left" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1024px-Instagram.svg.png" ></a>
 <img title="Ismael#1169" align="left" alt="GitHub" width="28px" height="27px" src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" >
-<a href="https://github.com/ismhdez"><img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" ></a>
+<a href="https://github.com/ismhdez"><img align="left" alt="GitHub" width="26px" src="https://github.com/fluidicon.png" ></a>
 
 <br />
 <br />
