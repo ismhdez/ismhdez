@@ -2,7 +2,18 @@
 
 ¡Hola! Soy Ismael Muñoz, estudiante de **Sistemas Microinformáticos & Redes** y apasionado por el mundo de la ciberseguridad.
 
-## Lenguajes y Herramientas
+## 🛠 Proyectos
+Actualmente estoy trabajando en proyectos privados. He colaborado con **DigitalSynware** (principalmente, pero no exclusivo con [MineBox Network](https://minebox.es?ref=github_ismhdez)) durante 2 años como desarrollador frontend y backend. Creador inicial de MCVotes 
+<center>
+  <img align="left" title="ismhdez" src="https://pbs.twimg.com/profile_images/1338109316990164993/91WEJ6po_400x400.jpg" width="26px">
+  <img align="left" title="MCVotes" src="https://servidoresdeminecraft.net/inc/img/logo.png" width="26px">
+  <img align="left" title="DigitalSynware" src="https://digitalsynware.com/inc/img/logos/logo_gradient.png" width="26px">
+  <img align="left" title="MineBox Network" src="https://mclist.co/api/render/favicon/d38cda9615e6c52abfe1948e635b4ef8cad7b22c5d419550ad63dc164ac9921f" width="26px">
+</center>
+<br />
+<br />
+
+## 💻 Lenguajes y Herramientas
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
 <img align="left" alt="Java" width="26px" src="https://i.imgur.com/cE3CFGf.png" >
 <img align="left" alt="PHP" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" >
