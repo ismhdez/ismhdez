@@ -29,12 +29,8 @@ Actualmente estoy trabajando en proyectos privados. He colaborado con **DigitalS
 <br />
 
 ## 📨 Contactáctame
-<a href="mailto:ismael@ismhdez.es"><img align="left" alt="Email" width="26px" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" ></a>
-<!--<a href="https://twitter.com/ismhdez23"><img align="left" alt="Twitter" width="28px" height="26px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" ></a>
-<a href="https://instagram.com/ismhdez"><img align="left" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1024px-Instagram.svg.png" ></a>-->
-<img title="Ismael#1169" align="left" alt="GitHub" width="28px" height="27px" src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" >
-<a href="https://github.com/ismhdez"><img align="left" alt="GitHub" width="26px" src="https://github.com/fluidicon.png" ></a>
-
+Puedes enviarme un correo electrónico a <a href="mailto:ismael@ismhdez.es">ismael@ismhdez.es</a>.  
+<i>0x5AE484991B2E5B2C (GPG fingerprint)</i>
 <br />
 <br />
 <br />
