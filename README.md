@@ -15,6 +15,7 @@ Actualmente estoy trabajando en **[CrowtyCraft Network](https://crowtycraft.es?r
 <br />
 
 ## 💻 Lenguajes y Herramientas
+<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
 <img align="left" alt="Java" width="26px" src="https://i.imgur.com/cE3CFGf.png" >
 <img align="left" alt="PHP" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" >
