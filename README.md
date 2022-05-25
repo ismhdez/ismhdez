@@ -39,3 +39,4 @@ Puedes enviarme un correo electrónico a <a href="mailto:ismael@ismhdez.es">isma
 > ✨☁️ Imagination is more important than knowledge...  
 > *&mdash; Albert Einstein*
 
+[![Commit Graph](https://activity-graph.herokuapp.com/graph?username=ismhdez&theme=rogue&hide_border=true)](https://github.com/ismhdez)
