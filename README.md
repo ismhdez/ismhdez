@@ -44,3 +44,4 @@ Puedes enviarme un correo electrónico a <a href="mailto:ismael@ismhdez.es">isma
 > *&mdash; Albert Einstein*
 
 [![Commit Graph](https://activity-graph.herokuapp.com/graph?username=ismhdez&theme=rogue&hide_border=true)](https://github.com/ismhdez)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/188662817237368834)](https://discord.com/users/188662817237368834)
