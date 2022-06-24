@@ -3,7 +3,7 @@
 ¡Hola! Soy Ismael Muñoz, estudiante de **Sistemas Microinformáticos & Redes** y apasionado por el mundo de la ciberseguridad.
 
 ## 🛠 Proyectos
-Actualmente estoy trabajando en proyectos de desarrollo privados. He colaborado con **DigitalSynware** (principalmente, pero no exclusivo con [MineBox Network](https://minebox.es?ref=github_ismhdez)) durante 2 años como desarrollador frontend y backend; al igual que con [CrowtyCraft Network](https://crowtycraft.es?ref=github_ismhdez). Creador inicial de MCVotes 
+Actualmente estoy trabajando en **DigitalSynware** (principalmente, pero no exclusivo con [MineBox Network](https://minebox.es?ref=github_ismhdez)) durante 2 años como desarrollador frontend y backend; al igual que con [CrowtyCraft Network](https://crowtycraft.es?ref=github_ismhdez) y en otros proyectos de desarrollo privado.
 <table>
   <td><img align="center" title="DigitalSynware" src="https://digitalsynware.com/inc/img/logos/logo_gradient.png" width="26px"></td>
   <td><img align="center" title="MineBox Network" src="https://mclist.co/api/render/favicon/d38cda9615e6c52abfe1948e635b4ef8cad7b22c5d419550ad63dc164ac9921f" width="26px"></td>
