@@ -3,7 +3,7 @@
 ¡Hola! Soy Ismael Muñoz, estudiante de **Sistemas Microinformáticos & Redes** y apasionado por el mundo de la ciberseguridad.
 
 ## 🛠 Proyectos
-Actualmente estoy trabajando en **DigitalSynware** (principalmente, pero no exclusivo con [MineBox Network](https://minebox.es?ref=github_ismhdez)) durante 2 años como desarrollador frontend y backend; y en otros proyectos de desarrollo privado.
+Actualmente estoy trabajando en **v4Guard** junto a **DigitalSynware** (principalmente, pero no exclusivo con [MineBox Network](https://minebox.es?ref=github_ismhdez)) durante 2 años como desarrollador frontend y backend; y en otros proyectos de desarrollo privado.
 <table>
   <td><img align="center" title="v4Guard" src="https://cdn.v4guard.io/logos/logo_dark.png" width="36px"></td>
   <td><img align="center" title="DigitalSynware" src="https://v4guard.io/inc/img/logos/icon_white.png" width="26px"></td>
