@@ -1,9 +1,9 @@
 # 👨🏻‍💻 Ismael Muñoz&mdash;@ismhdez
 
-¡Hola! Soy Ismael Muñoz, estudiante de **Sistemas Microinformáticos & Redes** y apasionado por el mundo de la ciberseguridad.
+Hi there! 👋🏻 — I'm Ismael Muñoz, a self-taught software engineer, and passionate about the world of cybersecurity.
 
-## 🛠 Proyectos
-Actualmente estoy trabajando en **v4Guard** junto a **DigitalSynware** (principalmente, pero no exclusivo con [MineBox Network](https://minebox.es?ref=github_ismhdez)) durante 2 años como desarrollador frontend y backend; y en otros proyectos de desarrollo privado.
+## 🛠 Projects
+I am currently working on **v4Guard** together with **DigitalSynware** (mainly, but not exclusive with [MineBox Network](https://minebox.es?ref=github_ismhdez)) for 2 years as Full Stack Developer; and on other private development projects.
 <table>
   <td><img align="center" title="v4Guard" src="https://cdn.v4guard.io/logos/logo_transparent.svg" width="36px"></td>
   <td><img align="center" title="DigitalSynware" src="https://i.ibb.co/y0gd1vx/descarga.png" width="26px"></td>
@@ -13,7 +13,7 @@ Actualmente estoy trabajando en **v4Guard** junto a **DigitalSynware** (principa
 </table>
 <br />
 
-## 💻 Lenguajes y Herramientas
+## 💻 Languages and Tools
 <table>
 <tr>
 <td><img align="center" alt="C#" width="32px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></td>
@@ -34,13 +34,13 @@ Actualmente estoy trabajando en **v4Guard** junto a **DigitalSynware** (principa
 </table>
 <br />
 
-## 📨 Contactáctame
-Puedes enviarme un correo electrónico a <a href="mailto:ismael@ismhdez.es">ismael@ismhdez.es</a>.  
+## 📨 Contact me
+You can send me an email to <a href="mailto:ismael@ismhdez.es">ismael@ismhdez.es</a>.  
 <i>0x5AE484991B2E5B2C (GPG fingerprint)</i>
 <br />
 <br />
 
-> ✨☁️ Imagination is more important than knowledge...  
+> ✨☁️ Imagination is more important than knowledge
 > *&mdash; Albert Einstein*
 
 [![Commit Graph](https://activity-graph.herokuapp.com/graph?username=ismhdez&theme=rogue&hide_border=true)](https://github.com/ismhdez)
