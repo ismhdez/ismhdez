@@ -8,8 +8,6 @@ I am currently working on **v4Guard** together with **DigitalSynware** (mainly, 
   <td><img align="center" title="v4Guard" src="https://cdn.v4guard.io/logos/logo_transparent.svg" width="36px"></td>
   <td><img align="center" title="DigitalSynware" src="https://i.ibb.co/y0gd1vx/descarga.png" width="26px"></td>
   <td><img align="center" title="MineBox Network" src="https://mclist.co/api/render/favicon/d38cda9615e6c52abfe1948e635b4ef8cad7b22c5d419550ad63dc164ac9921f" width="26px"></td>
-  <td><a href="https://ismhdez.es?ref=github_readme"><img align="center" title="ismhdez" src="https://ismhdez.es/icon.png" width="26px"></a></td>
-  <td><a href="https://web.archive.org/web/20200809092441/https://mcvotes.com/"><img align="center" title="MCVotes" src="https://web.archive.org/web/20200817193018im_/https://mcvotes.com/inc/img/logo.png" width="26px"></a></td>
 </table>
 <br />
 
