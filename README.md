@@ -41,5 +41,4 @@ You can send me an email to <a href="mailto:ismael@ismhdez.es">ismael@ismhdez.es
 > ✨☁️ Imagination is more important than knowledge
 > *&mdash; Albert Einstein*
 
-[![Commit Graph](https://activity-graph.herokuapp.com/graph?username=ismhdez&theme=rogue&hide_border=true)](https://github.com/ismhdez)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/188662817237368834)](https://discord.com/users/188662817237368834)
