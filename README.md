@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Ismael Muñoz&mdash;@ismhdez
 
-Hi there! 👋🏻 — I'm Ismael Muñoz, a self-taught software engineer, and passionate about the world of cybersecurity.
+Hi there! 👋🏻 — I'm Ismael Muñoz, a self-taught software developer, and passionate about the world of cybersecurity.
 
 ## 🛠 Projects
 I am currently working on **v4Guard** together with **DigitalSynware** (mainly, but not exclusive with [MineBox Network](https://minebox.es?ref=github_ismhdez)) for 2 years as Full Stack Developer; and on other private development projects.
