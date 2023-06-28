@@ -1,3 +1,8 @@
+![README](https://ismhdez.es/readme.md.png)
+> 📨 Contact me
+You can send me an email to <a href="mailto:ismael@ismhdez.es">ismael@ismhdez.es</a>.  
+<i>0x5AE484991B2E5B2C (GPG fingerprint)</i>
+<!--
 # 👨🏻‍💻 Ismael Muñoz&mdash;@ismhdez
 
 Hi there! 👋🏻 — I'm Ismael Muñoz, a self-taught software developer, and passionate about the world of cybersecurity.
